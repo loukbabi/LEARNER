@@ -1,0 +1,19 @@
+# This is a template file for CMake to generate the final package config.
+
+# Use the values (like include paths) from the main CMake build
+@PACKAGE_INIT@
+
+# This macro helps find dependencies
+include(CMakeFindDependencyMacro)
+
+# Declare all the public dependencies of your library
+# Any project that uses your Rover-SLAM will also need these.
+find_dependency(Eigen3 REQUIRED)
+find_dependency(Pangolin REQUIRED)
+find_dependency(OpenCV REQUIRED)
+find_dependency(Boost REQUIRED)
+# Note: We don't list onnxruntime here because we defined it internally
+
+# This is the most important line. It includes the file that defines
+# the actual library target (ORB_SLAM3::ORB_SLAM3) for other projects to use.
+include("${CMAKE_CURRENT_LIST_DIR}/ORB_SLAM3Targets.cmake")
