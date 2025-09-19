@@ -6,7 +6,7 @@ For more information, please visit https://learner.ee.duth.gr.
 You can also become a member of our community at https://www.linkedin.com/company/learner-project
 
 # Using the Middleware Package
-For instructions on how to use the developed middleware package visit click [here](Build&Run.md).
+For instructions on how to use the developed middleware package click [here](Build&Run.md).
 
 
 # Acknowledgment
