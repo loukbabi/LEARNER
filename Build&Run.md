@@ -54,10 +54,6 @@ Arguments: **vocabulary file**, **camera config**, **image folder**, **timestamp
 
 More launch scripts live under `Examples/*`.
 
-### ROS 2 Wrapper
-
-Live demos & bag playback: **ros2_semantic_sporbslam3** → <https://github.com/anastaga/ros2_semantic_sporbslam3>
-
 ---
 
 ## Acknowledgments
