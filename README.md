@@ -17,4 +17,4 @@ This research is implemented in the framework of H.F.R.I call "Basic research Fi
 
 ## License
 
-This repository is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is released under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
