@@ -5,8 +5,16 @@ This repository serves as a means for publishing the code of the developed metho
 For more information, please visit https://learner.ee.duth.gr.
 You can also become a member of our community at https://www.linkedin.com/company/learner-project
 
+# Using the Middleware Package
+For instructions on how to use the developed middleware package visit click [here](Build&Run.md).
+
+
 # Acknowledgment
 This research is implemented in the framework of H.F.R.I call "Basic research Financing (Horizontal support of all Sciences)" under the National Recovery and Resilience Plan "Greece 2.0" funded by the European Union – NextGenerationEU (H.F.R.I. Project Number: 15339).
 <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/7efe42a5-e934-4698-a5c1-f74675c9beb5" alt="drawing" width="500"/>
 </div>
+
+## License
+
+This repository is released under the MIT License. See the [LICENSE](LICENSE) file for details.
